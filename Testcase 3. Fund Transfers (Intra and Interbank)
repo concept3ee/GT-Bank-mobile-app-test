@@ -1,0 +1,30 @@
+
+Test Case 5: Intra-bank Fund Transfer
+
+Preconditions:
+
+User is logged into their account.
+Sufficient funds are available.
+Test Steps:
+
+Navigate to the "Transfer Funds" or "Send Money" section.
+Select an existing account or enter the recipient's account details (within the same bank).
+Enter the transfer amount.
+Provide a description (optional).
+Click the "Transfer" or "Send" button.
+Verify that the transfer is successful and the updated account balance is displayed.
+Test Case 6: Interbank Fund Transfer
+
+Preconditions:
+
+User is logged into their account.
+Sufficient funds are available.
+The recipient's account is in a different bank.
+Test Steps:
+
+Navigate to the "Transfer Funds" or "Send Money" section.
+Select an existing account or enter the recipient's account details (different bank).
+Enter the transfer amount.
+Provide a description (optional).
+Click the "Transfer" or "Send" button.
+Verify that the transfer is successful and confirmations are displayed.
