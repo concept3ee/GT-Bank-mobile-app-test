@@ -1,0 +1,83 @@
+GT Bank Financial Application Test Plan
+
+Introduction
+1.1 Purpose
+The purpose of this test plan is to outline the testing strategy and approach for the GT Bank Financial Application.
+1.2 Scope
+This test plan covers functional, security, usability, performance, and compatibility testing of the GT Bank Financial Application on iOS and Android platforms.
+
+1.3 Objectives
+The main objectives of this test plan are to:
+
+Ensure the application meets functional requirements.
+Verify the security and data protection features.
+Assess usability and user experience.
+Evaluate performance under different conditions.
+Confirm compatibility with various devices and operating systems.
+2. Test Strategy
+2.1 Test Levels
+The following testing levels will be conducted:
+
+Functional Testing
+Security Testing
+Usability Testing
+Performance Testing
+Compatibility Testing
+2.2 Test Types
+The following test types will be executed:
+
+Smoke Testing
+Regression Testing
+Exploratory Testing
+Security Scanning
+Load Testing
+Compatibility Testing
+3. Test Environment
+3.1 Hardware
+iOS devices (various models)
+Android devices (various models)
+3.2 Software
+iOS versions (latest and previous)
+Android versions (latest and previous)
+4. Test Cases
+4.1 Functional Testing
+User Registration and Login
+Account Balance and Transaction History
+Fund Transfers (Intra and Interbank)
+Bill Payments (Utility Bills, Airtime, etc.)
+Card Management (Blocking, Activation)
+Alerts and Notifications
+ATM/Branch Locator
+4.2 Security Testing
+Data Encryption: Verify data is securely transmitted and stored.
+Authentication: Test user authentication mechanisms (e.g., PIN, biometrics).
+Authorization: Ensure proper access control.
+Secure Session Management: Verify sessions are secure and timeout correctly.
+4.3 Usability Testing
+Evaluate the user interface for consistency and ease of use.
+Test navigation and user experience.
+Gather feedback from real users for subjective evaluation.
+4.4 Performance Testing
+Load Testing: Assess application behavior under heavy traffic.
+Responsiveness: Measure app responsiveness under different network conditions.
+Resource Consumption: Evaluate CPU, memory, and data usage.
+4.5 Compatibility Testing
+Test the application on various devices, screen sizes, and resolutions.
+Verify compatibility with different OS versions.
+5. Test Data
+Prepare test data, including sample transactions, user profiles, and test scenarios.
+6. Test Execution
+6.1 Test Execution Steps
+Execute test cases manually on various devices and OS versions.
+6.2 Defect Reporting
+Log defects using a bug tracking tool (e.g., Jira, Bugzilla).
+8. Risks and Mitigations
+Identify potential risks related to testing and propose mitigation strategies.
+9. Deliverables
+Test Plan
+Test Cases
+Test Reports
+10. Exit Criteria
+Define the criteria for exiting each testing phase (e.g., all high-priority defects fixed).
+11. Conclusion
+Summarize the test results and provide recommendations.
