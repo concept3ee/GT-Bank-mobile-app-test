@@ -1,0 +1,31 @@
+
+
+Test Case 1: User Registration
+
+Preconditions:
+
+The application is installed and accessible.
+The user is not registered.
+Test Steps:
+
+Launch the application.
+Click on the "Register" or "Sign Up" button.
+Enter valid user information (name, email, phone number, etc.).
+Set a strong password.
+Click the "Register" button.
+Verify that a confirmation message is displayed.
+Check the user's email for a confirmation link.
+Click the confirmation link in the email.
+Verify that the user is redirected to the login page.
+
+Test Case 2: User Login
+
+Preconditions:
+
+The user is registered.
+Test Steps:
+
+Launch the application.
+Enter the registered email and password.
+Click the "Login" button.
+Verify that the user is successfully logged in and directed to the home screen.
