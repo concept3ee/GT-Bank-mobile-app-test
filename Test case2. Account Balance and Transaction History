@@ -1,0 +1,22 @@
+
+Test Case 3: View Account Balance
+
+Preconditions:
+
+User is logged into their account.
+Test Steps:
+
+Navigate to the "Account" or "Balance" section.
+Verify that the user's account balance is displayed accurately.
+
+Test Case 4: View Transaction History
+
+Preconditions:
+
+User is logged into their account.
+There are previous transactions.
+Test Steps:
+
+Navigate to the "Transaction History" or "Recent Transactions" section.
+Verify that a list of recent transactions is displayed.
+Check that transaction details, including date, description, and amount, are accurate.
