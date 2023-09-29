@@ -1,0 +1,26 @@
+5. Card Management (Blocking, Activation)
+
+Test Case 9: Card Activation
+
+Preconditions:
+
+User has received a new card.
+
+Test Steps:
+
+Navigate to the "Card Management" or "Manage Cards" section.
+Select the new card for activation.
+Click the "Activate" button.
+Verify that the card is successfully activated.
+Test Case 10: Card Blocking
+
+Preconditions:
+
+User's card is active.
+
+Test Steps:
+
+Navigate to the "Card Management" or "Manage Cards" section.
+Select the active card for blocking.
+Click the "Block" or "Deactivate" button.
+Verify that the card is successfully blocked and cannot be used for transactions.
