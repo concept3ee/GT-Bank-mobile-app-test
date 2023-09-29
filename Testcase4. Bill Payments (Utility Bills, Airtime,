@@ -1,0 +1,28 @@
+4. Bill Payments (Utility Bills, Airtime, etc.)
+
+Test Case 7: Utility Bill Payment
+
+Preconditions:
+
+User is logged into their account.
+Utility bill details (e.g., electricity) are available.
+Test Steps:
+
+Navigate to the "Bill Payments" or "Pay Bills" section.
+Select the utility bill category (e.g., electricity).
+Enter the necessary bill details (account number, amount).
+Click the "Pay" button.
+Verify that the payment is successful and a payment confirmation is displayed.
+Test Case 8: Airtime Recharge
+
+Preconditions:
+
+User is logged into their account.
+Mobile phone number for airtime recharge is available.
+Test Steps:
+
+Navigate to the "Airtime Recharge" or "Top-up" section.
+Enter the mobile phone number.
+Select the recharge amount.
+Click the "Recharge" or "Top-up" button.
+Verify that the airtime is successfully added to the phone number.
