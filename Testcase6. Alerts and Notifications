@@ -1,11 +1,1 @@
-6. Alerts and Notifications
 
-Test Case 11: Transaction Notification
-
-Preconditions:
-
-User has performed a transaction.
-Test Steps:
-
-Wait for a transaction to be completed.
-Verify that a transaction notification (e.g., SMS, in-app notification) is received promptly.
